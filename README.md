@@ -1,5 +1,7 @@
 # Firebase + Spreadsheet
 
+> 參考資訊：https://medium.com/firebase-developers/sheets-to-firebase-33132e31935b
+
 將 Spreadsheet 的資料傳送到 Firebase Realtime database
 
 1. 建立 Firebase project
